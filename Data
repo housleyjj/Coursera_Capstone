@@ -1,6 +1,14 @@
-Data:
-We will be using foursquare data for the city of Chicago, IL.  With foursquare, we can find neighborhoods that have access to 
-city bike paths.  Using the coordinates for the bike paths, we then can find the type of shops and restaurants in a radius of 5 miles.
-We will be looking for neighborhoods that have bike shops and a variety of types of restaurants.  
-We can cluster the neighborhoods around Chicago.  Within our different clusters, we can see the top ten restaurant cuisines.  
-This will be important to determine if the location already has a restaurant of our type (vegan cuisine).
+Data
+
+Data Sources:
+	Chicago neighborhoods along with their zip codes will be acquired from Wikipedia and 
+  City of Chicago websites.  Finding Chicago's bike paths will be obtained through 
+  Foursquare using the explore function.  Once the locations of the bike paths are acquired,
+  we can use the coordinates and the Foursquare explore function again to get a query of restaurant 
+  and shops within a 5 mile radius.  Once this data is obtained, we can cluster the different neighborhoods 
+  and then determine which neighborhood will best best for the restaurant.
+
+Data Cleaning:
+	Data will be gathered from multiple sources, so there will need to be some data manipulation 
+  in order to combine the data into one table.  As this is the beginning of the discussion, more will 
+  be added in this section in the final report.

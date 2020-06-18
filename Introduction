@@ -1,6 +1,20 @@
-Overview:
-The Problem: Where to open a restaurant.
-With the growing interest in cycling culture, I will find a great neighborhood to open a restaurant that will be welcoming to the cyclist 
-community of Chicago, IL.  May times cyclists would like to take a relaxed ride to bike friendly locations for light shopping and 
-lunch.  The location will need to be close to access to a city bike path, shopping, and other restaurants.  This information will 
-be of interest for potential investors that are interested in catering to the growing cyclist community.
+Introduction:
+
+Background:
+	It is hard to open a new restaurant, especially one that caters to a specific community.  
+  Selecting the correct location is a critical step in the initial set up of the restaurant, in order 
+  to place it on the path of success.  It is of great importance  to select a location in order to 
+  reach the community the restaurant wants to serve.
+
+Problem:
+	A client seeks to open a cyclist friendly restaurant, with a emphasis  
+  on Mediterranean cuisine in a Chicago neighborhood.  The main question, which
+  neighborhood would be best for the restaurant.
+
+	The objective of this capstone is to locate the best neighborhood for this niche restaurant.  
+  Using Foursquare API, we will be able to determine locations with access to city bike paths, 
+  other restaurants and shops within a 5 mile radius of the bike path.
+
+Interest:
+	Others wanting to cater to the growing cyclist community will be interested in finding 
+  potential neighborhoods in which business opportunities would be easier to establish.
